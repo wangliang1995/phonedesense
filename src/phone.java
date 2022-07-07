@@ -14,12 +14,12 @@ public class phone {
 
     }
 
-//    public static void main(String[] arg){
-//        String myphone = "15659033749";
-//        phone p = new phone();
-//        myphone = p.desense(myphone);
-//        System.out.println(myphone);
-//    }
+    public static void main(String[] arg){
+        String myphone = "15659033749";
+        phone p = new phone();
+        myphone = p.desense(myphone);
+        System.out.println(myphone);
+    }
 
 }
 
