@@ -21,6 +21,7 @@ public class phone {
         System.out.println(myphone);
         System.out.println("hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
